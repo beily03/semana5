@@ -1,0 +1,18 @@
+1. Ruta GET /usuarios
+   Ocurre: El servidor recibe la petición de consulta, busca en la 
+   base de datos y devuelve la lista completa de usuarios al cliente 
+   sin modificar nada.
+
+2. Ruta POST /usuarios
+   Ocurre: El servidor recibe los nuevos datos ocultos en el cuerpo 
+   de la petición, los procesa, registra el nuevo usuario en el 
+   sistema y confirma la creación.
+
+3. Ruta PUT /usuarios/:id
+   Ocurre: El servidor identifica al usuario por su ID único y 
+   reemplaza o actualiza toda su información con los nuevos datos 
+   recibidos.
+
+4. Ruta DELETE /usuarios/:id
+   Ocurre: El servidor localiza al usuario con el ID especificado 
+   y lo elimina permanentemente del sistema o base de datos
