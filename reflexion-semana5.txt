@@ -1,0 +1,6 @@
+Las APIs actúan como puentes digitales organizados. En un entorno comunitario, su función principal es ordenar y estandarizar el caos de información
+(mensajes de WhatsApp sueltos, llamadas o papeles) en datos limpios y estructurados.Así es exactamente como ayudan a gestionar reportes, alertas e información:
+1. Centralizan la información desde cualquier canalLas comunidades usan muchas herramientas a la vez (un formulario web, una app móvil, un bot de Telegram o un sistema de SMS).
+2. El rol de la API: Funciona como una ventanilla única. No importa de dónde venga el reporte de un vecino, la API (usando una ruta POST)
+3.  recibe todos los datos, los formatea por igual y los guarda en una sola base de datos comunitaria. 
+4. Automatizan alertas en tiempo realCuando ocurre una emergencia (como una inundación o una alerta de seguridad), la velocidad es vital.
