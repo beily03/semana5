@@ -1,0 +1,10 @@
+Qué hace esta ruta.
+
+Para qué podría servir en una aplicación comunitaria.
+
+1. Ruta GET (Consultar información)Qué hace: Descarga y muestra datos del servidor sin alterarlos.Para qué sirve en la
+2. comunidad:Ver el mapa de puntos de acopio o comedores comunitarios disponibles.Consultar la lista de medicamentos o herramientas compartidas en stock.
+3. Leer el cronograma de asambleas o talleres vecinales.2.
+4. Ruta POST (Enviar o registrar información)Qué hace: Crea un registro nuevo y lo guarda en la base de datos.
+5. Para qué sirve en la comunidad:Reportar una avería o problema en el barrio
+6.  (ej. una luminaria rota).Registrar a un nuevo voluntario en una brigada de emergencia.Publicar una alerta comunitaria en tiempo real.
